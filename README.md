@@ -23,7 +23,9 @@ The User inputs provide the user with two simple search filter options. genre an
 
 once the user is finished inputting the values they can choose to click the find movies button, which will use the TMDB api to fetch for the the top ten movies that fit into the filtered values and will create card elements of those movies fetched.
 
-![2023-01-09 (5)](https://user-images.githubusercontent.com/94885681/211236367-bb1d0c63-58fd-415d-ae01-b062f7c05204.png)
+<p>
+    <img src=./assets/img/readme/Navbar-Trending.png>
+</p>
 
 
 #### iii Card Display:
