@@ -13,7 +13,9 @@ The page uses The Movies Database-TMDB- api
 
 The navbar is kept the same as the home page, however the Top 10s option contains a dropdown which allows for a quick search of three movie genres that we thought were likely to be the most popular. When clicking on one of these options, the user will be redirected to the top 10 page, and the site will automatically detect if one of the dropdowns are selctected and will render the results on loading the page. Otherwise, if the default dropdown value of Top 10s is selected, the top 10 of all genres will load. 
 
-![2023-01-09 (2)](https://user-images.githubusercontent.com/94885681/211236004-6bedcf1e-7dd6-413a-81ec-68ed35f00e97.png)
+<p>
+    <img src=./assets/img/readme/Navbar-Trending.png>
+</p>
 
 #### ii User inputs:
 
