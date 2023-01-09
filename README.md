@@ -1,13 +1,13 @@
 ### **2. Top-10s (Top-10.html)**
 
-The Top 10 window is resposnible for allowing the user to discover the top 10 movies by genre with a range of 19 genres to select from. 
+The Trending page allows the user to discover the Trending movies of the Week and Day. 
 
-The Top 10 section consists of 3 main features, similar to the home page:
+The Trending Movies page consists of 3 main features, similar to the home page:
 - navbar
-- user input (genre and user votes)
+- user 
 - card display 
 
-The page uses both TMDB api as well as google developer Youtube api
+The page uses The Movies Database-TMDB- api
 
 #### i  Navbar:
 
